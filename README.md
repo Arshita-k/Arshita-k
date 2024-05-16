@@ -5,7 +5,7 @@ Currently Btech CSE Student at IGDTUW
 - arshita23@outlook.com
 + https://www.linkedin.com/in/arshitak/
 
-🔭 I’m currently working on my skills and exploring machine learning and data science field
+
 
 
 
