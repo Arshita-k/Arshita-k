@@ -1,11 +1,15 @@
 ### Hi there 👋 I am Arshita 
 Currently Btech CSE Student at IGDTUW
 
+
 📫 How to reach me: 
-- arshita23@outlook.com
+- arshita785@gmail.com
 + https://www.linkedin.com/in/arshitak/
 
 Leetcode Profile - https://leetcode.com/u/Arshitaa/
+
+HackerRank Profile - https://www.hackerrank.com/profile/arshita23
+
 
 
 
