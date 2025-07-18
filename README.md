@@ -7,7 +7,7 @@ My journey is fueled by a relentless curiosity and a dedication to continuous le
 
 ### What I'm Currently Building & Learning:
 
--   Deepening my understanding of **Machine Learning, Deep Learing**.
+-   Deepening my understanding of **Machine Learning, Deep Learning**.
 -   Exploring **MERN Stack**.
 
 ---
